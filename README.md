@@ -19,11 +19,11 @@ as well as deploying a polished data visualization to the web is all possible th
 
 * Bubble Chart of Top Ten Colonies
 
-<img align="center" width="800" src=""><br/><br/><br/><br/>
+<img align="center" width="800" src="/static/images/bubble.png"><br/><br/><br/><br/>
 
 * Plotly Dashboard
 
-<img align="center" width="800" src=""><br/>
+<img align="center" width="800" src="/static/images/plotly_dashboard.png"><br/>
 
 ### Things I Learned
 * Using Plotly to Create Bar Charts, Line Charts and Pie Charts.
