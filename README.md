@@ -40,4 +40,4 @@ as well as deploying a polished data visualization to the web is all possible th
 Plotly.js, HTML, JavaScript, D3.json
 
 ### Live Demo
-Watch a ![Live Demo]("https://yiggzzz.github.io/Plotly-Belly-Button-Biodiversity ") here
+Watch a Live Demo here: ("https://yiggzzz.github.io/Plotly-Belly-Button-Biodiversity ")
